@@ -1,0 +1,60 @@
+/* profile.css */
+
+
+/* User Profile Container */
+
+.profile-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.profile-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+
+/* User Details */
+
+.user-details {
+    margin-bottom: 20px;
+}
+
+.user-details p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+
+/* Profile Picture */
+
+.profile-picture img {
+    max-width: 150px;
+    border: 2px solid #333;
+    border-radius: 50%;
+}
+
+
+/* Recently Viewed Items */
+
+.recently-viewed {
+    margin-top: 20px;
+}
+
+.recently-viewed h2 {
+    font-size: 20px;
+}
+
+.recently-viewed ul {
+    list-style: none;
+    padding: 0;
+}
+
+.recently-viewed li {
+    font-size: 18px;
+    margin: 10px 0;
+}
